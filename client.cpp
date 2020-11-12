@@ -1,5 +1,4 @@
 //Bukola Obajemu
-//PSID:1773165
 //A client program that will connect with your
 //server and send it requests for the weather report
 //for a given city.

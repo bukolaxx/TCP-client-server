@@ -1,5 +1,4 @@
 //Bukola Obajemu
-//PSID:1773165
 //A server program that will wait for connection
 // requests from your client and exchange one-line
 //text messages with it.
